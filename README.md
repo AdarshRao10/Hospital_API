@@ -2,6 +2,9 @@
 Description:
 This GitHub repository contains the backend API code for a mobile application designed to facilitate communication and collaboration among doctors, patients, and various healthcare associates. The application aims to streamline the interaction, information sharing, consultation, and decision-making processes related to patient care. Key stakeholders include doctors, patients, hospitals, administrators, collaborative doctors, paramedics, business associates, and service providers.
 
+![Hospital_process](https://github.com/AdarshRao10/Hospital_Api/assets/39885667/ec767a58-5ac1-4a9f-91f9-b0fb729ffff6)
+
+
 **Features:**
 
 User authentication for doctors, patients, and associates.
