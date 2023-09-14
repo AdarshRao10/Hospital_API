@@ -9,5 +9,5 @@ const pool = new Pool({
   port: 5432, // Default PostgreSQL port
 });
 
-// Export the pool for use in your application
+// Export the pool for use in our application
 module.exports = pool;

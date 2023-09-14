@@ -1,7 +1,7 @@
 CREATE DATABASE Hospital;
 
 --  command to connect to the newly created database
---\c Hospital
+--\c connect to Hospital DB
 
 CREATE TABLE patients (
     patient_id SERIAL PRIMARY KEY,

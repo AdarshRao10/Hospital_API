@@ -16,7 +16,7 @@ craete a new file db.js
 import it inside the index.js file.
 
 Install Postman Api testing client and inside raw=> select JSON file format
-use json data format as below:
+use json data format as shown below:
 {
     "name":"John Doe",
     "email":"JohnDoe@gmail.com",

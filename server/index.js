@@ -6,7 +6,7 @@ const pool = require('./db');
 //Middleware
 app.use(cors());
 
-//Helps us to access the req.body when a request is made and the req type is json
+//Helps us to access the req.body when a request is made and the request type is json
 app.use(express.json());
 
 //ROUTES TO PERFORM CRUD (Create, Read, Update, Delete)
